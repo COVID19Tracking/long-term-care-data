@@ -1,0 +1,29 @@
+name: Fetch LTC Data
+on:
+  schedule:
+    - cron: "15 21 * * *"
+
+jobs:
+  build-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+        with:
+          path: ./
+
+      - name: Install Dependencies
+        run: cd ./.build && yarn install
+
+      - name: Build data files
+        env:
+          BIGQUERY_CREDENTIALS: ${{ secrets.BIGQUERY_CREDENTIALS }}
+        run: |
+          cd ./.build && yarn build
+
+      - name: Commit data files
+        uses: stefanzweifel/git-auto-commit-action@v4.1.2
+        with:
+          commit_message: Update LTC Data
+          file_pattern: ./*.csv
+          commit_author: COVID Tracking Project Web Data Builder <accounts@covidtracking.com>

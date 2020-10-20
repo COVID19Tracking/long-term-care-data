@@ -1,0 +1,14 @@
+{
+  "name": "covid-tracking-long-term-care-data",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@google-cloud/bigquery": "^5.3.0",
+    "dotenv": "^8.2.0",
+    "json2csv": "^5.0.3"
+  },
+  "scripts": {
+    "build": "node index.js"
+  }
+}
