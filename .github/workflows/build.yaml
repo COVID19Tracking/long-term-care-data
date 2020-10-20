@@ -1,7 +1,7 @@
 name: Fetch LTC Data
 on:
-  schedule:
-    - cron: "5 11 * * *"
+  issues:
+    types: [opened, edited, milestoned]
 
 jobs:
   build-data:
