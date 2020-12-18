@@ -1,0 +1,10 @@
+"date","state","county","city","facility_name","facility_type_state","ctp_facility_category","state_fed_regulated","state_facility_id","facility_cms_id","date_outbreak_opened","date_outreak_closed","outbreak_status","resident_census","resident_positives","resident_probable","resident_deaths","resident_probable_deaths","staff_positive","staff_probable","staff_deaths","staff_probable_deaths","resident_staff_positives","resident_staff_probable_positives","resident_staff_deaths","resident_staff_probable_deaths","outbreak_resident_positives","outbreak_resident_probable","outbreak_resident_deaths","outbreak_resident_probable_deaths","outbreak_staff_positive","outbreak_staff_probable","outbreak_staff_deaths","outbreak_staff_probable_deaths","outbreak_resident_staff_positives","outbreak_resident_staff_probable_positives","outbreak_resident_staff_deaths","outbreak_resident_staff_probable_deaths","outbreak_residents_tested","staff_tested","personal_protective_equipment"
+20201217,"VT",,,"Rutland Health & Rehab",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"66",,,,,,
+20201217,"VT",,,"Four Seasons Care Home",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"41",,,,,,
+20201217,"VT",,,"Berlin Health & Rehab",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"34",,,,,,
+20201217,"VT",,,"Valley Vista (Bradford)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"8",,,,,,
+20201217,"VT",,,"Residence at Quarry Hill",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"11",,,,,,
+20201217,"VT",,,"St. Albans Healthcare & Rehab Center",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"63",,,,,,
+20201217,"VT",,,"Elderwood at Burlington",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"116",,,,,,
+20201217,"VT",,,"Converse Home Assisted Living",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"11",,,,,,
+20201217,"VT",,,"Our Lady of Providence Residential Care Community",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"22",,,,,,
