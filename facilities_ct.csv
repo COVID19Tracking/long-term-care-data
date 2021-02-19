@@ -12294,3 +12294,454 @@ Windsor","The Village at Buckland Court","Assisted Living","Assisted Living","St
 20210211,"CT",,"Torrington","Wolcott Hall Nursing Center","Nursing Home","Nursing Home","Federal",,"75111",,,,"42","31",,"7",,"23",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
 20210211,"CT",,"Wolcott","Wolcott View Manor","Nursing Home","Nursing Home","Federal",,"75282",,,,"54","72",,"7",,"25",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
 20210211,"CT",,"Tolland","Woodlake at Tolland","Nursing Home","Nursing Home","Federal",,"75382",,,,"98","63",,"7",,"26",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Stamford","Fairfield County
+House","Assisted Living","Assisted Living","State",,,,,,"2","0",,"0",,"0",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Guilford","The Roses at The
+Guilford House","Assisted Living","Assisted Living","State",,,,,,"14","0",,"0",,"1",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Mansfield","Juniper Hill Village","Assisted Living","Assisted Living","State",,,,,,"12","2",,"0",,"1",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Ridgefield","Atria Ridgefield","Assisted Living","Assisted Living","State",,,,,,"41","0",,"0",,"2",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Southington","LiveWell","Assisted Living","Assisted Living","State",,,,,,"11","0",,"0",,"2",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Hamden","Sacred Heart
+Manor","Assisted Living","Assisted Living","State",,,,,,"28","1",,"0",,"2",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Suffield","Eagle Pointe
+Assisted Living","Assisted Living","Assisted Living","State",,,,,,"10","1",,"0",,"2",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Newington","Middlewoods of
+Newington","Assisted Living","Assisted Living","State",,,,,,"43","2",,"0",,"2",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Simsbury","Virginia Connolly
+Residence","Assisted Living","Assisted Living","State",,,,,,"19","2",,"0",,"2",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Hartford","Immanuel House","Assisted Living","Assisted Living","State",,,,,,"37","6",,"0",,"2",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Wilton","Sunrise of Wilton","Assisted Living","Assisted Living","State",,,,,,"28","1",,"1",,"3",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"New Haven","The Towers","Assisted Living","Assisted Living","State",,,,,,"41","3",,"2",,"3",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Darien","The Residence at
+Selleck's Woods","Assisted Living","Assisted Living","State",,,,,,"60","4",,"1",,"3",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Seymour","Smithfield Garden
+Assisted Living","Assisted Living","Assisted Living","State",,,,,,"48","6",,"0",,"3",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Stamford","Edgehill","Assisted Living","Assisted Living","State",,,,,,"19","8",,"2",,"3",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"New Canaan","Village at Waveny","Assisted Living","Assisted Living","State",,,,,,"33","21",,"10",,"3",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Bristol","Shady Oaks
+Assisted Living","Assisted Living","Assisted Living","State",,,,,,"32","0",,"0",,"4",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Manchester","Arbors of Hop
+Brook","Assisted Living","Assisted Living","State",,,,,,"92","0",,"0",,"4",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Clinton","Ocean Meadow (formerly The
+Shoreline of Clinton)","Assisted Living","Assisted Living","State",,,,,,"19","1",,"0",,"4",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Farmington","Middlewoods of
+Farmington","Assisted Living","Assisted Living","State",,,,,,"66","2",,"0",,"4",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Shelton","Crosby Commons","Assisted Living","Assisted Living","State",,,,,,"53","4",,"1",,"4",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Vernon","Welles Country
+Village","Assisted Living","Assisted Living","State",,,,,,"43","4",,"1",,"4",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Newtown","The Commons of
+Newtown","Assisted Living","Assisted Living","State",,,,,,"20","8",,"0",,"4",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Farmington","Arden Courts of
+Farmington","Assisted Living","Assisted Living","State",,,,,,"50","2",,"1",,"5",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Farmington","Farmington Station","Assisted Living","Assisted Living","State",,,,,,"113","4",,"1",,"5",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Simsbury","Anthology of
+Simsbury","Assisted Living","Assisted Living","State",,,,,,"51","5",,"1",,"5",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Mystic","The Cottage at
+StoneRidge","Assisted Living","Assisted Living","State",,,,,,"12","10",,"2",,"5",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Simsbury","McLean Assisted
+Living","Assisted Living","Assisted Living","State",,,,,,"50","18",,"3",,"5",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Madison","The Hearth at Tuxis
+Pond","Assisted Living","Assisted Living","State",,,,,,"72","22",,"3",,"5",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Trumbull","Middlebrook Farms
+at Trumbull","Assisted Living","Assisted Living","State",,,,,,"77","23",,"7",,"5",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Glastonbury","Brookdale
+Buckingham","Assisted Living","Assisted Living","State",,,,,,"43","24",,"6",,"5",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Greenwich","The Greens at
+Greenwich","Assisted Living","Assisted Living","State",,,,,,"23","24",,"3",,"5",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"East Haven","The Village at
+Mariner's Point","Assisted Living","Assisted Living","State",,,,,,"102","0",,"0",,"6",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Glastonbury","Herbert T Clarke
+House","Assisted Living","Assisted Living","State",,,,,,"20","0",,"0",,"6",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Westport","The Residence at
+Westport","Assisted Living","Assisted Living","State",,,,,,"13","0",,"0",,"6",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Essex","Essex Meadows","Assisted Living","Assisted Living","State",,,,,,"20","1",,"0",,"6",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Hamden","Whitney Center","Assisted Living","Assisted Living","State",,,,,,"40","1",,"0",,"6",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Danbury","Spring Village at
+Danbury","Assisted Living","Assisted Living","State",,,,,,"37","5",,"0",,"6",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Farmington","Anthology of
+Farmington","Assisted Living","Assisted Living","State",,,,,,"72","12",,"6",,"6",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Glastonbury","Addison Place at Glastonbury (formerly Atria
+Glastonbury)","Assisted Living","Assisted Living","State",,,,,,"53","12",,"5",,"6",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Rocky Hill","The Residence at
+Ferry Park","Assisted Living","Assisted Living","State",,,,,,"33","17",,"5",,"6",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Suffield","Suffield by the River","Assisted Living","Assisted Living","State",,,,,,"63","23",,"3",,"6",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Stamford","Brighton Gardens
+of Stamford","Assisted Living","Assisted Living","State",,,,,,"76","26",,"11",,"6",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Hamden","Meadow Mills","Assisted Living","Assisted Living","State",,,,,,"43","27",,"10",,"6",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Woodbridge","The Linden at
+Woodbridge","Assisted Living","Assisted Living","State",,,,,,"70","34",,"6",,"6",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Newtown","Church Hill Village","Assisted Living","Assisted Living","State",,,,,,"42","1",,"0",,"7",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Norwalk","Kingsway Senior
+Housing**","Assisted Living","Assisted Living","State",,,,,,"8","2",,"0",,"7",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Hebron","Colebrook Village at
+Hebron","Assisted Living","Assisted Living","State",,,,,,"68","5",,"0",,"7",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Cromwell","Covenant Living of
+Cromwell","Assisted Living","Assisted Living","State",,,,,,"36","10",,"1",,"7",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"West Hartford","Brookdale West
+Hartford","Assisted Living","Assisted Living","State",,,,,,"46","11",,"2",,"7",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Trumbull","Bridges by EPOCH
+at Trumbull","Assisted Living","Assisted Living","State",,,,,,"43","27",,"16",,"7",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Watertown","The Ivy at
+Watertown","Assisted Living","Assisted Living","State",,,,,,"26","0",,"0",,"8",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"West Hartford","Atria Hamilton
+Heights","Assisted Living","Assisted Living","State",,,,,,"68","5",,"1",,"8",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Redding","Meadow Ridge","Assisted Living","Assisted Living","State",,,,,,"16","11",,"1",,"8",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Middletown","One MacDonough
+Place","Assisted Living","Assisted Living","State",,,,,,"38","15",,"7",,"8",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"West Hartford","Brookdale Chatfield","Assisted Living","Assisted Living","State",,,,,,"75","15",,"2",,"8",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Ellington","the Ivy at Ellington","Assisted Living","Assisted Living","State",,,,,,"47","16",,"4",,"8",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Stamford","Sunrise of Stamford","Assisted Living","Assisted Living","State",,,,,,"63","19",,"10",,"8",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Wilton","Brookdale Wilton","Assisted Living","Assisted Living","State",,,,,,"48","21",,"1",,"8",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Torrington","Keystone Place at
+Newbury Brook","Assisted Living","Assisted Living","State",,,,,,"94","22",,"5",,"8",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Southbury","Pomperaug Woods","Assisted Living","Assisted Living","State",,,,,,"24","0",,"0",,"9",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Southbury","The Watermark at
+East Hill","Assisted Living","Assisted Living","State",,,,,,"45","1",,"0",,"9",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Darien","Atria Darien","Assisted Living","Assisted Living","State",,,,,,"73","2",,"0",,"9",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Bozrah","Elmbrook Village at
+Bozrah","Assisted Living","Assisted Living","State",,,,,,"62","3",,"0",,"9",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Southington","The Orchards at
+Southington","Assisted Living","Assisted Living","State",,,,,,"80","4",,"0",,"9",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"New Britain","Arbor Rose","Assisted Living","Assisted Living","State",,,,,,"58","5",,"0",,"9",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Hartford","The Retreat","Assisted Living","Assisted Living","State",,,,,,"90","3",,"0",,"10",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Norwalk","Bridges by EPOCH
+at Norwalk","Assisted Living","Assisted Living","State",,,,,,"46","28",,"10",,"10",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Newtown","Maplewood at
+Newtown","Assisted Living","Assisted Living","State",,,,,,"92","32",,"9",,"10",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Hamden","Benchmark Senior
+Living at Hamden","Assisted Living","Assisted Living","State",,,,,,"75","35",,"11",,"10",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Stamford","The Residence at
+Summer Street","Assisted Living","Assisted Living","State",,,,,,"44","0",,"0",,"11",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Woodbridge","Coachman Square
+at Woodbridge","Assisted Living","Assisted Living","State",,,,,,"58","12",,"4",,"11",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Brooklyn","Creamery Brook
+Retirement Village","Assisted Living","Assisted Living","State",,,,,,"19","0",,"0",,"12",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Wallingford","Masonicare at
+Ashlar Village","Assisted Living","Assisted Living","State",,,,,,"90","8",,"5",,"12",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"West Hartford","Hoffman SummerWood
+Community","Assisted Living","Assisted Living","State",,,,,,"69","12",,"3",,"12",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Shelton","Benchmark Senior
+Living at Split Rock","Assisted Living","Assisted Living","State",,,,,,"93","21",,"5",,"12",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Bethel","Maplewood at
+Stony Hill","Assisted Living","Assisted Living","State",,,,,,"69","16",,"4",,"13",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Rocky Hill","Atria Greenridge
+Place","Assisted Living","Assisted Living","State",,,,,,"87","37",,"5",,"13",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"South Windsor","The Village at
+Buckland Court","Assisted Living","Assisted Living","State",,,,,,"63","41",,"15",,"13",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Ridgefield","Benchmark Senior Living at Ridgefield
+Crossings","Assisted Living","Assisted Living","State",,,,,,"92","56",,"29",,"13",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Windsor Locks","Stonebrook Village
+at Windsor Locks","Assisted Living","Assisted Living","State",,,,,,"105","23",,"6",,"14",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Bridgeport","The Watermark at
+3030 Park","Assisted Living","Assisted Living","State",,,,,,"27","19",,"7",,"15",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Waterford","Atria Crossroads
+Place","Assisted Living","Assisted Living","State",,,,,,"93","22",,"1",,"15",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Hartford","The Heights at
+Avery Heights","Assisted Living","Assisted Living","State",,,,,,"45","28",,"5",,"15",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Bethel","The Cascades
+Assisted Living","Assisted Living","Assisted Living","State",,,,,,"28","6",,"3",,"16",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Chester","Masonicare at
+Chester Village","Assisted Living","Assisted Living","State",,,,,,"15","6",,"1",,"16",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"North Haven","The Landing of
+North Haven","Assisted Living","Assisted Living","State",,,,,,"63","18",,"2",,"16",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Mystic","Academy Point at
+Mystic","Assisted Living","Assisted Living","State",,,,,,"52","20",,"4",,"16",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Avon","The Residence at
+Brookside in Avon","Assisted Living","Assisted Living","State",,,,,,"36","23",,"6",,"16",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Middletown","Luther Ridge at
+Middletown","Assisted Living","Assisted Living","State",,,,,,"36","13",,"2",,"17",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Hamden","Atria Larson Place","Assisted Living","Assisted Living","State",,,,,,"81","14",,"2",,"17",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Darien","Maplewood at
+Darien","Assisted Living","Assisted Living","State",,,,,,"47","19",,"1",,"17",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Bloomfield","Seabury Retirement
+Community","Assisted Living","Assisted Living","State",,,,,,"58","22",,"3",,"17",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Haddam","The Saybrook at
+Haddam","Assisted Living","Assisted Living","State",,,,,,"86","28",,"5",,"19",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Canaan","Geer Village Senior
+Community","Assisted Living","Assisted Living","State",,,,,,"40","26",,"7",,"20",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Fairfield","Sturges Ridge of
+Fairfield","Assisted Living","Assisted Living","State",,,,,,"54","35",,"3",,"20",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Cheshire","Elim Park","Assisted Living","Assisted Living","State",,,,,,"39","7",,"0",,"21",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Norwalk","Brightview on New
+Canaan","Assisted Living","Assisted Living","State",,,,,,"76","23",,"6",,"23",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Avon","River Ridge at Avon","Assisted Living","Assisted Living","State",,,,,,"60","34",,"5",,"23",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Shelton","Wesley Heights at
+Wesley Village","Assisted Living","Assisted Living","State",,,,,,"94","26",,"7",,"24",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Norwalk","Maplewood at
+Strawberry Hill","Assisted Living","Assisted Living","State",,,,,,"71","9",,"1",,"27",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Southington","Mulberry Gardens
+of Southington","Assisted Living","Assisted Living","State",,,,,,"60","37",,"9",,"27",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Farmington","Brookdale Gables
+Farmington","Assisted Living","Assisted Living","State",,,,,,"52","14",,"2",,"30",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Waterbury","The Village at East
+Farms","Assisted Living","Assisted Living","State",,,,,,"134","64",,"14",,"45",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Fairfield","Sunrise of Fairfield","Assisted Living","Assisted Living","State",,,,,,"30","0",,"0",,"4",,"0",,,,,,"0",,"0",,"1",,"0",,,,,,,,
+20210218,"CT",,"Greenwich","The Mews","Assisted Living","Assisted Living","State",,,,,,"30","13",,"5",,"4",,"0",,,,,,"0",,"0",,"1",,"0",,,,,,,,
+20210218,"CT",,"Wilton","The Greens at
+Cannondale","Assisted Living","Assisted Living","State",,,,,,"103","17",,"11",,"5",,"0",,,,,,"0",,"0",,"1",,"0",,,,,,,,
+20210218,"CT",,"Rocky Hill","The Atrium at
+Rocky Hill","Assisted Living","Assisted Living","State",,,,,,"36","36",,"12",,"6",,"0",,,,,,"0",,"0",,"1",,"0",,,,,,,,
+20210218,"CT",,"Danbury","Maplewood at
+Danbury","Assisted Living","Assisted Living","State",,,,,,"48","29",,"11",,"8",,"0",,,,,,"0",,"0",,"1",,"0",,,,,,,,
+20210218,"CT",,"Litchfield","Brandywine Living
+at Litchfield","Assisted Living","Assisted Living","State",,,,,,"57","1",,"1",,"10",,"0",,,,,,"0",,"0",,"1",,"0",,,,,,,,
+20210218,"CT",,"Southport","Maplewood at
+Southport","Assisted Living","Assisted Living","State",,,,,,"70","7",,"1",,"10",,"0",,,,,,"0",,"0",,"1",,"0",,,,,,,,
+20210218,"CT",,"South Windsor","Brookdale South
+Windsor","Assisted Living","Assisted Living","State",,,,,,"70","11",,"0",,"10",,"0",,,,,,"0",,"0",,"1",,"0",,,,,,,,
+20210218,"CT",,"North Branford","Evergreen Woods
+Health Center","Assisted Living","Assisted Living","State",,,,,,"71","12",,"0",,"10",,"0",,,,,,"0",,"0",,"1",,"0",,,,,,,,
+20210218,"CT",,"South Windsor","The Residence at
+South Windsor Farms","Assisted Living","Assisted Living","State",,,,,,"63","23",,"8",,"10",,"0",,,,,,"0",,"0",,"1",,"0",,,,,,,,
+20210218,"CT",,"West Hartford","The McAuley","Assisted Living","Assisted Living","State",,,,,,"18","0",,"0",,"12",,"0",,,,,,"0",,"0",,"1",,"0",,,,,,,,
+20210218,"CT",,"Bloomfield","Duncaster","Assisted Living","Assisted Living","State",,,,,,"29","10",,"5",,"13",,"0",,,,,,"0",,"0",,"1",,"0",,,,,,,,
+20210218,"CT",,"Branford","The Hearth at
+Gardenside","Assisted Living","Assisted Living","State",,,,,,"59","24",,"6",,"18",,"0",,,,,,"0",,"0",,"1",,"0",,,,,,,,
+20210218,"CT",,"Shelton","Brightview Shelton","Assisted Living","Assisted Living","State",,,,,,"42","7",,"1",,"19",,"0",,,,,,"0",,"0",,"1",,"0",,,,,,,,
+20210218,"CT",,"East Lyme","Crescent Point at
+Niantic","Assisted Living","Assisted Living","State",,,,,,"51","25",,"1",,"19",,"0",,,,,,"0",,"0",,"1",,"0",,,,,,,,
+20210218,"CT",,"Glastonbury","The Hearth at
+Glastonbury","Assisted Living","Assisted Living","State",,,,,,"97","37",,"12",,"19",,"0",,,,,,"0",,"0",,"1",,"0",,,,,,,,
+20210218,"CT",,"Milford","Carriage Green at
+Milford","Assisted Living","Assisted Living","State",,,,,,"78","11",,"4",,"26",,"0",,,,,,"0",,"0",,"1",,"0",,,,,,,,
+20210218,"CT",,"Bridgeport","Jewish Senior
+Services","Assisted Living","Assisted Living","State",,,,,,"32","8",,"1",,"5",,"0",,,,,,"0",,"0",,"2",,"0",,,,,,,,
+20210218,"CT",,"Stratford","Spring Village at
+Stratford","Assisted Living","Assisted Living","State",,,,,,"63","38",,"14",,"9",,"0",,,,,,"0",,"0",,"2",,"0",,,,,,,,
+20210218,"CT",,"Southbury","The Hearth at
+Southbury","Assisted Living","Assisted Living","State",,,,,,"87","38",,"10",,"20",,"0",,,,,,"0",,"0",,"3",,"0",,,,,,,,
+20210218,"CT",,"Trumbull","Spring Meadows of
+Trumbull","Assisted Living","Assisted Living","State",,,,,,"97","15",,"2",,"3",,"0",,,,,,"1",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Middletown","The Village at South
+Farms","Assisted Living","Assisted Living","State",,,,,,"83","50",,"2",,"5",,"0",,,,,,"1",,"1",,"0",,"0",,,,,,,,
+20210218,"CT",,"Torrington","The Cottage at Litchfield Hills (formerly Atria
+Litchfield Hills)","Assisted Living","Assisted Living","State",,,,,,"56","9",,"2",,"10",,"0",,,,,,"1",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Meriden","The Village at
+Kensington Place","Assisted Living","Assisted Living","State",,,,,,"75","11",,"0",,"14",,"0",,,,,,"1",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Newington","Cedar Mountain
+Commons","Assisted Living","Assisted Living","State",,,,,,"64","10",,"3",,"15",,"0",,,,,,"1",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Stamford","Atria Stamford","Assisted Living","Assisted Living","State",,,,,,"123","17",,"7",,"16",,"1",,,,,,"1",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Brookfield","The Village at
+Brookfield Common","Assisted Living","Assisted Living","State",,,,,,"65","25",,"4",,"29",,"1",,,,,,"1",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Mystic","Masonicare at
+Mystic","Assisted Living","Assisted Living","State",,,,,,"66","4",,"1",,"13",,"0",,,,,,"1",,"0",,"2",,"0",,,,,,,,
+20210218,"CT",,"Branford","Artis Senior Living
+of Branford","Assisted Living","Assisted Living","State",,,,,,"33","6",,"3",,"5",,"0",,,,,,"4",,"1",,"0",,"0",,,,,,,,
+20210218,"CT",,"Orange","Maplewood at
+Orange","Assisted Living","Assisted Living","State",,,,,,"85","28",,"0",,"19",,"0",,,,,,"5",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Avon","Arden Courts of
+Avon","Assisted Living","Assisted Living","State",,,,,,"27","15",,"0",,"7",,"0",,,,,,"8",,"0",,"1",,"0",,,,,,,,
+20210218,"CT",,"New Haven","Leeway","Nursing Home","Nursing Home","Federal",,"75408",,,,"28","0",,"0",,"5",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"New Britain","Monsignor Bojnowski Manor","Nursing Home","Nursing Home","Federal",,"75374",,,,"45","0",,"0",,"6",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Plymouth","Cook-Willow Health & Rehabilitation Center","Nursing Home","Nursing Home","Federal",,"75349",,,,"51","0",,"0",,"8",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Salisbury","Noble Horizons","Nursing Home","Nursing Home","Federal",,"75236",,,,"63","1",,"0",,"7",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Cromwell","Pilgrim Manor Care Center","Nursing Home","Nursing Home","Federal",,"75306",,,,"53","1",,"0",,"11",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Canaan","Geer Nursing and Rehabiliation Center","Nursing Home","Nursing Home","Federal",,"75202",,,,"90","2",,"0",,"3",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Brooklyn","Pierce Memorial Baptist Home","Nursing Home","Nursing Home","Federal",,"75243",,,,"51","2",,"2",,"9",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Farmington","Amberwoods of Farmington","Nursing Home","Nursing Home","Federal",,"75419",,,,"83","2",,"1",,"17",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"New London","Beechwood Post-Acute and Transitional Care","Nursing Home","Nursing Home","Federal",,"75335",,,,"44","3",,"0",,"6",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Bristol","Village Green of Bristol Rehabilitation and Health Center","Nursing Home","Nursing Home","Federal",,"75198",,,,"77","3",,"0",,"7",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Southbury","The Watermark at East Hill","Nursing Home","Nursing Home","Federal",,"75441",,,,"21","3",,"0",,"11",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Meriden","The Bradley Home","Nursing Home","Nursing Home","Federal",,"75439",,,,"26","5",,"7",,"16",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Bloomfield","Caleb Hitchcock Health Center","Nursing Home","Nursing Home","Federal",,"75301",,,,"44","5",,"5",,"18",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Southbury","Pomperaug Woods Health Center","Nursing Home","Nursing Home","Federal",,"75318",,,,"25","6",,"2",,"9",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Watertown","Watertown Convalarium","Nursing Home","Nursing Home","Federal",,"75340",,,,"15","8",,"1",,"11",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Danbury","Filosa Nursing & Rehabilitation","Nursing Home","Nursing Home","Federal",,"75074",,,,"53","8",,"0",,"16",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Sharon","Sharon Health Care Center","Nursing Home","Nursing Home","Federal",,"75379",,,,"73","9",,"4",,"10",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Meriden","Meriden Center (CT)","Nursing Home","Nursing Home","Federal",,"75192",,,,"106","14",,"0",,"4",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Meriden","CT Baptist Homes, Inc.","Nursing Home","Nursing Home","Federal",,"75352",,,,"44","14",,"8",,"16",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Bridgeport","The Springs at Watermark 3030 Park","Nursing Home","Nursing Home","Federal",,"75440",,,,"11","15",,"6",,"5",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Madison","Watrous Nursing Center","Nursing Home","Nursing Home","Federal",,"75328",,,,"0","15",,"5",,"13",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Stonington","Apple Rehab Mystic","Nursing Home","Nursing Home","Federal",,"75327",,,,"40","19",,"6",,"18",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Simsbury","Governor's House","Nursing Home","Nursing Home","Federal",,"75338",,,,"38","20",,"8",,"7",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Essex","Essex Meadows Health Center","Nursing Home","Nursing Home","Federal",,"75322",,,,"26","20",,"8",,"8",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Hamden","Whitney Center","Nursing Home","Nursing Home","Federal",,"75290",,,,"43","20",,"6",,"20",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Portland","Portland Care & Rehabilitation Centre","Nursing Home","Nursing Home","Federal",,"75214",,,,"60","22",,"9",,"6",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Stamford","Edgehill Health Center","Nursing Home","Nursing Home","Federal",,"75421",,,,"24","22",,"9",,"20",,"1",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Norwich","Norwich Sub-Acute and Nursing","Nursing Home","Nursing Home","Federal",,"75079",,,,"83","24",,"5",,"31",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Southbury","River Glen Health Care Center","Nursing Home","Nursing Home","Federal",,"75241",,,,"85","25",,"6",,"27",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Meriden","The Curtis Home","Nursing Home","Nursing Home","Federal",,"75365",,,,"55","26",,"12",,"7",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Wilton","Wilton Meadows Rehab & Health Care Center","Nursing Home","Nursing Home","Federal",,"75317",,,,"116","27",,"26",,"4",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Redding","Ridge Crest at Meadow Ridge","Nursing Home","Nursing Home","Federal",,"75429",,,,"42","28",,"19",,"27",,"0",,,,,,"0",,"3",,"0",,"0",,,,,,,,
+20210218,"CT",,"North Branford","Evergreen Woods Health Center","Nursing Home","Nursing Home","Federal",,"75362",,,,"27","29",,"10",,"28",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"East Hampton","Cobalt Health Care & Rehabilitation Center","Nursing Home","Nursing Home","Federal",,"75232",,,,"28","30",,"10",,"13",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Southington","LiveWell","Nursing Home","Nursing Home","Federal",,"75378",,,,"101","30",,"9",,"22",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Torrington","Wolcott Hall Nursing Center","Nursing Home","Nursing Home","Federal",,"75111",,,,"43","31",,"7",,"23",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"East Windsor","Touchpoints at Chestnut","Nursing Home","Nursing Home","Federal",,"75436",,,,"44","33",,"4",,"15",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Avon","Apple Rehab Avon","Nursing Home","Nursing Home","Federal",,"75388",,,,"39","34",,"15",,"1",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Stonington","Avalon Health Center","Nursing Home","Nursing Home","Federal",,"75437",,,,"16","34",,"15",,"38",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Torrington","Regalcare at Torrington","Nursing Home","Nursing Home","Federal",,"75105",,,,"65","35",,"9",,"7",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Vernon","Vernon Manor Health Care Center","Nursing Home","Nursing Home","Federal",,"75334",,,,"85","35",,"7",,"15",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Rocky Hill","The John L. Levitow Health Care Center","Nursing Home","Nursing Home","Federal",,"75443",,,,"80","35",,"8",,"37",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Simsbury","McLean Health Care","Nursing Home","Nursing Home","Federal",,"75216",,,,"60","36",,"8",,"14",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Bloomfield","Seabury Health Center","Nursing Home","Nursing Home","Federal",,"75383",,,,"53","36",,"12",,"23",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Westport","Westport Rehabilitation Complex","Nursing Home","Nursing Home","Federal",,"75280",,,,"39","38",,"16",,"5",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Durham","Twin Maples Health Care Facility","Nursing Home","Nursing Home","Federal",,"75431",,,,"34","38",,"1",,"24",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Bridgeport","Northbridge Health Care","Nursing Home","Nursing Home","Federal",,"75413",,,,"90","38",,"19",,"27",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Middlebury","Middlebury Convalescent Home, Inc","Nursing Home","Nursing Home","Federal",,"75146",,,,"29","38",,"10",,"28",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"New Britain","Jerome Home","Nursing Home","Nursing Home","Federal",,"75343",,,,"77","38",,"12",,"47",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Guilford","The Guilford House","Nursing Home","Nursing Home","Federal",,"75235",,,,"60","39",,"5",,"39",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Windsor Locks","Bickford Health Care Center","Nursing Home","Nursing Home","Federal",,"75358",,,,"29","40",,"14",,"6",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Waterbury","Mattatuck Health Care Facility","Nursing Home","Nursing Home","Federal",,"75432",,,,"34","40",,"6",,"22",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"West Hartford","The Reservoir Center","Nursing Home","Nursing Home","Federal",,"75407",,,,"39","41",,"7",,"5",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Middletown","Apple Rehab Middletown","Nursing Home","Nursing Home","Federal",,"75089",,,,"50","42",,"10",,"13",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Danbury","Hancock Hall","Nursing Home","Nursing Home","Federal",,"75414",,,,"57","43",,"10",,"45",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Greenwich","Greenwich Woods","Nursing Home","Nursing Home","Federal",,"75309",,,,"79","44",,"18",,"14",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Orange","Orange Health Care Center","Nursing Home","Nursing Home","Federal",,"75434",,,,"44","46",,"5",,"1",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Rocky Hill","60 West","Nursing Home","Nursing Home","Federal",,"75442",,,,"76","47",,"7",,"3",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Bloomfield","Bloomfield Health Care Center","Nursing Home","Nursing Home","Federal",,"75138",,,,"103","48",,"23",,"5",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Shelton","Bishop-Wicke Health and Rehabilitation","Nursing Home","Nursing Home","Federal",,"75163",,,,"82","48",,"33",,"5",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Meriden","Apple Rehab Coccomo","Nursing Home","Nursing Home","Federal",,"75345",,,,"85","50",,"18",,"11",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Waterbury","Waterbury Gardens Nursing and Rehab","Nursing Home","Nursing Home","Federal",,"75210",,,,"83","50",,"18",,"19",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Stamford","St. Camillus Center","Nursing Home","Nursing Home","Federal",,"75320",,,,"74","53",,"21",,"13",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"New Canaan","Waveny Care Center","Nursing Home","Nursing Home","Federal",,"75361",,,,"53","53",,"18",,"17",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Stamford","The Villa at Stamford","Nursing Home","Nursing Home","Federal",,"75153",,,,"111","54",,"15",,"9",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Groton","Mystic Healthcare & Rehabilitation Center","Nursing Home","Nursing Home","Federal",,"75271",,,,"78","54",,"21",,"13",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Cheshire","Elim Park Baptist Home","Nursing Home","Nursing Home","Federal",,"75265",,,,"61","55",,"14",,"21",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Cromwell","Apple Rehab Cromwell","Nursing Home","Nursing Home","Federal",,"75380",,,,"64","55",,"10",,"26",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Danbury","Western Rehabilitation Care Center","Nursing Home","Nursing Home","Federal",,"75274",,,,"82","56",,"23",,"12",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Plainville","Apple Rehab Farmington Valley","Nursing Home","Nursing Home","Federal",,"75044",,,,"100","56",,"21",,"16",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Windsor","Windsor Health and Rehab","Nursing Home","Nursing Home","Federal",,"75011",,,,"86","57",,"22",,"5",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Madison","Madison House Center","Nursing Home","Nursing Home","Federal",,"75405",,,,"62","57",,"19",,"16",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"New Haven","Grimes Health Center","Nursing Home","Nursing Home","Federal",,"75275",,,,"68","58",,"3",,"10",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Colchester","Apple Rehab Colchester","Nursing Home","Nursing Home","Federal",,"75231",,,,"45","58",,"15",,"33",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Middletown","Middlesex Healthcare Center","Nursing Home","Nursing Home","Federal",,"75106",,,,"116","59",,"32",,"8",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Colchester","Harrington Court","Nursing Home","Nursing Home","Federal",,"75253",,,,"93","59",,"17",,"26",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Naugatuck","Glendale Center","Nursing Home","Nursing Home","Federal",,"75240",,,,"79","60",,"8",,"11",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Greenwich","RegalCare at Greenwich","Nursing Home","Nursing Home","Federal",,"75069",,,,"48","61",,"21",,"30",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Plainfield","Colonial Health and Rehab Center of Plainfield, LLC","Nursing Home","Nursing Home","Federal",,"75310",,,,"75","61",,"4",,"34",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Cheshire","Cheshire Regional Rehabilitation Center","Nursing Home","Nursing Home","Federal",,"75222",,,,"67","62",,"5",,"26",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"West Hartford","Hughes Health & Rehabilitation","Nursing Home","Nursing Home","Federal",,"75082",,,,"102","63",,"25",,"15",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Tolland","Woodlake at Tolland","Nursing Home","Nursing Home","Federal",,"75382",,,,"107","63",,"7",,"26",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Southbury","The Lutheran Home of Southbury","Nursing Home","Nursing Home","Federal",,"75371",,,,"112","65",,"21",,"10",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"New Haven","The Mary Wade Home, Inc.","Nursing Home","Nursing Home","Federal",,"75325",,,,"75","66",,"29",,"18",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Groton","Fairview","Nursing Home","Nursing Home","Federal",,"75288",,,,"103","66",,"7",,"28",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Stonington","Pendleton Health & Rehabilitation Center","Nursing Home","Nursing Home","Federal",,"75341",,,,"75","66",,"9",,"36",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Wallingford","Skyview Rehab and Nursing","Nursing Home","Nursing Home","Federal",,"75057",,,,"90","67",,"10",,"17",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Windham","Douglas Manor","Nursing Home","Nursing Home","Federal",,"75258",,,,"60","67",,"13",,"49",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Guilford","Apple Rehab Guilford","Nursing Home","Nursing Home","Federal",,"75144",,,,"63","68",,"20",,"21",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Norwalk","Cassena Care at Norwalk","Nursing Home","Nursing Home","Federal",,"75159",,,,"108","69",,"26",,"6",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Groton","Groton Regency Center","Nursing Home","Nursing Home","Federal",,"75270",,,,"105","69",,"9",,"31",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Manchester","Touchpoints at Manchester","Nursing Home","Nursing Home","Federal",,"75314",,,,"111","71",,"20",,"8",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Canton","Cherrybrook Healthcare Center","Nursing Home","Nursing Home","Federal",,"75396",,,,"72","71",,"26",,"11",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Old Saybrook","Apple Rehab Saybrook","Nursing Home","Nursing Home","Federal",,"75070",,,,"62","72",,"22",,"12",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Wolcott","Wolcott View Manor","Nursing Home","Nursing Home","Federal",,"75282",,,,"59","72",,"7",,"25",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"New London","Harbor Village","Nursing Home","Nursing Home","Federal",,"75196",,,,"110","73",,"6",,"25",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Ridgefield","Laurel Ridge Health Care Center","Nursing Home","Nursing Home","Federal",,"75395",,,,"100","73",,"19",,"47",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Bloomfield","Touchpoints at Bloomfield","Nursing Home","Nursing Home","Federal",,"75264",,,,"112","74",,"24",,"11",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Southport","RegalCare at Southport","Nursing Home","Nursing Home","Federal",,"75200",,,,"80","74",,"19",,"12",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Rocky Hill","Apple Rehab Rocky Hill","Nursing Home","Nursing Home","Federal",,"75211",,,,"71","75",,"22",,"3",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Hartford","Parkville Care Center","Nursing Home","Nursing Home","Federal",,"75250",,,,"109","75",,"11",,"5",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Stamford","Long Ridge Post-Acute Care","Nursing Home","Nursing Home","Federal",,"75394",,,,"79","75",,"27",,"13",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Hamden","Hamden Rehabilitation & Health Care Center","Nursing Home","Nursing Home","Federal",,"75366",,,,"103","75",,"26",,"18",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Glastonbury","Salmonbrook Rehab & Nursing","Nursing Home","Nursing Home","Federal",,"75060",,,,"100","75",,"20",,"19",,"1",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Hamden","Whitney Rehabilitation Care Center","Nursing Home","Nursing Home","Federal",,"75246",,,,"99","77",,"21",,"14",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Greenwich","The Nathaniel Witherell","Nursing Home","Nursing Home","Federal",,"75117",,,,"166","80",,"17",,"26",,"0",,,,,,"0",,"1",,"0",,"0",,,,,,,,
+20210218,"CT",,"Woodbridge","The Willows","Nursing Home","Nursing Home","Federal",,"75331",,,,"68","81",,"21",,"4",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Manchester","Crestfield rehabilitation Center and Fenwood Manor","Nursing Home","Nursing Home","Federal",,"75013",,,,"91","82",,"26",,"36",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Windham","Saint Joseph Living Center","Nursing Home","Nursing Home","Federal",,"75321",,,,"65","82",,"21",,"44",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Waterford","New London Rehab & Care","Nursing Home","Nursing Home","Federal",,"75158",,,,"95","83",,"15",,"2",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Middletown","Wadsworth Glen Health Care Center","Nursing Home","Nursing Home","Federal",,"75312",,,,"79","83",,"14",,"44",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Newington","Jefferson House","Nursing Home","Nursing Home","Federal",,"75293",,,,"79","83",,"27",,"48",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Old Saybrook","Gladeview Rehabilitation and Health Care","Nursing Home","Nursing Home","Federal",,"75313",,,,"74","83",,"33",,"52",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Manchester","Manchester Manor Health Care Center","Nursing Home","Nursing Home","Federal",,"75333",,,,"97","84",,"26",,"46",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Farmington","Touchpoints at Farmington","Nursing Home","Nursing Home","Federal",,"75251",,,,"83","87",,"20",,"2",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Hartford","Trinity Hill Care Center","Nursing Home","Nursing Home","Federal",,"75268",,,,"114","87",,"11",,"16",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Vernon","Fox Hill Center","Nursing Home","Nursing Home","Federal",,"75183",,,,"87","88",,"17",,"7",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Bristol","Countryside Manor of Bristol","Nursing Home","Nursing Home","Federal",,"75415",,,,"76","88",,"38",,"16",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Waterbury","Autumn Lake Healthcare At Bucks Hill","Nursing Home","Nursing Home","Federal",,"75418",,,,"74","88",,"21",,"37",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Suffield","The Suffield House","Nursing Home","Nursing Home","Federal",,"75347",,,,"113","89",,"21",,"19",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Wallingford","Quinnipiac Valley Center","Nursing Home","Nursing Home","Federal",,"75234",,,,"105","89",,"14",,"20",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Hartford","Chelsea Place","Nursing Home","Nursing Home","Federal",,"75299",,,,"197","90",,"34",,"5",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Putnam","Matulaitis","Nursing Home","Nursing Home","Federal",,"75411",,,,"77","90",,"7",,"68",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Windsor","Kimberly Hall South","Nursing Home","Nursing Home","Federal",,"75237",,,,"89","91",,"21",,"7",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Waterbury","RegalCare at Waterbury","Nursing Home","Nursing Home","Federal",,"75219",,,,"97","91",,"17",,"22",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Rocky Hill","Maple View Health and Rehabilitation Center","Nursing Home","Nursing Home","Federal",,"75238",,,,"115","95",,"35",,"12",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Bristol","Sheriden Woods Health Care Center","Nursing Home","Nursing Home","Federal",,"75350",,,,"115","98",,"41",,"17",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"East Windsor","Fresh River Healthcare","Nursing Home","Nursing Home","Federal",,"75359",,,,"97","101",,"28",,"11",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Milford","Golden Hill Rehab Pavilion","Nursing Home","Nursing Home","Federal",,"75213",,,,"84","102",,"26",,"20",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Watertown","Apple Rehab Watertown","Nursing Home","Nursing Home","Federal",,"75181",,,,"95","102",,"73",,"51",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Branford","Branford Hills Health Care Center","Nursing Home","Nursing Home","Federal",,"75296",,,,"127","104",,"26",,"14",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Bethel","Bethel Health Care Center","Nursing Home","Nursing Home","Federal",,"75400",,,,"108","110",,"25",,"29",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Montville","Apple Rehab Uncasville","Nursing Home","Nursing Home","Federal",,"75438",,,,"78","110",,"24",,"46",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Manchester","Westside Care Center","Nursing Home","Nursing Home","Federal",,"75252",,,,"119","111",,"27",,"8",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Milford","Milford Health Care Center","Nursing Home","Nursing Home","Federal",,"75064",,,,"97","112",,"31",,"29",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Danbury","Saint John Paul II Center","Nursing Home","Nursing Home","Federal",,"75354",,,,"97","113",,"42",,"16",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Wallingford","Regency House of Wallingford","Nursing Home","Nursing Home","Federal",,"75261",,,,"99","114",,"41",,"19",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"New Haven","Advanced Center For Nursing & Rehabilitation","Nursing Home","Nursing Home","Federal",,"75348",,,,"196","120",,"14",,"31",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"East Lyme","Bride Brook Health & Rehabilitation Center","Nursing Home","Nursing Home","Federal",,"75375",,,,"112","124",,"30",,"13",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"West Hartford","West Hartford Health & Rehabilitation Center","Nursing Home","Nursing Home","Federal",,"75278",,,,"112","127",,"33",,"11",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Meriden","Silver Springs Care Center","Nursing Home","Nursing Home","Federal",,"75337",,,,"135","127",,"20",,"14",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Seymour","Shady Knoll Health Center","Nursing Home","Nursing Home","Federal",,"75386",,,,"95","127",,"56",,"37",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Torrington","Litchfield Woods Health Care Center","Nursing Home","Nursing Home","Federal",,"75319",,,,"125","129",,"42",,"11",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Trumbull","Maefair Health Care Center","Nursing Home","Nursing Home","Federal",,"75404",,,,"105","136",,"40",,"11",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Killingly","Davis Place","Nursing Home","Nursing Home","Federal",,"75423",,,,"126","136",,"21",,"95",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Torrington","Valerie Manor Health Care Center","Nursing Home","Nursing Home","Federal",,"75332",,,,"121","140",,"30",,"32",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Stratford","Lord Chamberlain Nursing & Rehabilitation Center","Nursing Home","Nursing Home","Federal",,"75339",,,,"163","146",,"38",,"66",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Waterbury","Abbott Terrace Health Center","Nursing Home","Nursing Home","Federal",,"75351",,,,"169","158",,"52",,"21",,"0",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Hamden","Arden House","Nursing Home","Nursing Home","Federal",,"75228",,,,"197","181",,"53",,"9",,"1",,,,,,"0",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Windham","Vanderman Place","Nursing Home","Nursing Home","Federal",,"75425",,,,"71","7",,"0",,"18",,"0",,,,,,"1",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Danbury","Glen Hill Center","Nursing Home","Nursing Home","Federal",,"75031",,,,"77","37",,"8",,"9",,"0",,,,,,"1",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Berlin","Ledgecrest Health Care Center","Nursing Home","Nursing Home","Federal",,"75230",,,,"46","39",,"6",,"10",,"0",,,,,,"1",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Plainfield","Villa Maria Nursing and Rehabilitation Community, Inc.","Nursing Home","Nursing Home","Federal",,"75084",,,,"44","42",,"3",,"24",,"0",,,,,,"1",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"West Haven","RegalCare at West Haven","Nursing Home","Nursing Home","Federal",,"75201",,,,"82","47",,"16",,"17",,"0",,,,,,"1",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"West Haven","Apple Rehab West Haven","Nursing Home","Nursing Home","Federal",,"75403",,,,"67","57",,"13",,"4",,"0",,,,,,"1",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Waterford","Bayview Health Care","Nursing Home","Nursing Home","Federal",,"75324",,,,"114","64",,"13",,"29",,"0",,,,,,"1",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Southington","Southington Care Center","Nursing Home","Nursing Home","Federal",,"75336",,,,"104","68",,"10",,"27",,"0",,,,,,"1",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Granby","Meadowbrook of Granby","Nursing Home","Nursing Home","Federal",,"75367",,,,"65","70",,"19",,"66",,"0",,,,,,"1",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Enfield","Parkway Pavillion","Nursing Home","Nursing Home","Federal",,"75195",,,,"118","106",,"20",,"13",,"0",,,,,,"1",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"West Hartford","St. Mary Home","Nursing Home","Nursing Home","Federal",,"75085",,,,"139","140",,"44",,"33",,"0",,,,,,"1",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Waterbury","Grove Manor Nursing Home, Inc.","Nursing Home","Nursing Home","Federal",,"75096",,,,"39","35",,"2",,"18",,"0",,,,,,"2",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Fairfield","Ludlowe Center for Health and Rehabilitation","Nursing Home","Nursing Home","Federal",,"75330",,,,"115","124",,"49",,"23",,"0",,,,,,"2",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Stratford","Chamberlain Healthcare (Manor- LTAC)","Nursing Home","Nursing Home","Federal",,"75412",,,,"43","53",,"9",,"18",,"0",,,,,,"3",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Newtown","Newtown Rehabilitation & Health Care Center","Nursing Home","Nursing Home","Federal",,"75355",,,,"100","142",,"38",,"40",,"0",,,,,,"3",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Hartford","Avery Heights Health Care Center","Nursing Home","Nursing Home","Federal",,"75063",,,,"144","114",,"23",,"53",,"0",,,,,,"9",,"0",,"0",,"0",,,,,,,,
+20210218,"CT",,"Enfield","St. Joseph Residence","Nursing Home","Nursing Home","Federal",,"75272",,,,"25","0",,"0",,"12",,"0",,,,,,"0",,"0",,"1",,"0",,,,,,,,
+20210218,"CT",,"Meriden","Miller Memorial Community","Nursing Home","Nursing Home","Federal",,"75295",,,,"66","2",,"0",,"25",,"0",,,,,,"0",,"0",,"1",,"0",,,,,,,,
+20210218,"CT",,"Chester","Chesterfield's Health Care Center","Nursing Home","Nursing Home","Federal",,"75028",,,,"42","13",,"1",,"10",,"0",,,,,,"0",,"0",,"1",,"0",,,,,,,,
+20210218,"CT",,"New Milford","Candlewood Valley Health & Rehabilitation Center","Nursing Home","Nursing Home","Federal",,"75416",,,,"105","15",,"2",,"17",,"0",,,,,,"0",,"0",,"1",,"0",,,,,,,,
+20210218,"CT",,"Newington","Bel-Air Manor Nursing and Rehabilitation Center","Nursing Home","Nursing Home","Federal",,"75393",,,,"63","24",,"7",,"26",,"0",,,,,,"0",,"0",,"1",,"0",,,,,,,,
+20210218,"CT",,"Chester","Aaron Manor Nursing & Rehabilitation","Nursing Home","Nursing Home","Federal",,"75410",,,,"48","36",,"12",,"6",,"0",,,,,,"0",,"0",,"1",,"0",,,,,,,,
+20210218,"CT",,"Bristol","The Pines at Bristol","Nursing Home","Nursing Home","Federal",,"75221",,,,"116","41",,"8",,"22",,"0",,,,,,"0",,"0",,"1",,"0",,,,,,,,
+20210218,"CT",,"Norwalk","Notre Dame Health and Rehabilitation","Nursing Home","Nursing Home","Federal",,"75356",,,,"37","53",,"21",,"17",,"0",,,,,,"0",,"0",,"1",,"0",,,,,,,,
+20210218,"CT",,"New Haven","RegalCare at New Haven","Nursing Home","Nursing Home","Federal",,"75397",,,,"141","53",,"7",,"20",,"0",,,,,,"0",,"0",,"1",,"0",,,,,,,,
+20210218,"CT",,"Shelton","Gardner Heights Health Care Center","Nursing Home","Nursing Home","Federal",,"75368",,,,"97","54",,"26",,"11",,"0",,,,,,"0",,"0",,"1",,"0",,,,,,,,
+20210218,"CT",,"New Milford","Village Crest Center for Health and Rehabilitation","Nursing Home","Nursing Home","Federal",,"75208",,,,"71","63",,"15",,"8",,"0",,,,,,"0",,"0",,"1",,"0",,,,,,,,
+20210218,"CT",,"East Haven","Whispering Pines Rehabilitation and Nursing Center LLC","Nursing Home","Nursing Home","Federal",,"75294",,,,"75","63",,"26",,"11",,"0",,,,,,"0",,"0",,"1",,"0",,,,,,,,
+20210218,"CT",,"Shelton","Apple Rehab Shelton Lakes","Nursing Home","Nursing Home","Federal",,"75300",,,,"85","70",,"22",,"8",,"0",,,,,,"0",,"0",,"1",,"0",,,,,,,,
+20210218,"CT",,"Glastonbury","Glastonbury Health Care Center","Nursing Home","Nursing Home","Federal",,"75316",,,,"82","78",,"34",,"8",,"0",,,,,,"0",,"1",,"1",,"0",,,,,,,,
+20210218,"CT",,"Shelton","Hewitt Health & Rehabilitation Center","Nursing Home","Nursing Home","Federal",,"75047",,,,"75","80",,"31",,"10",,"0",,,,,,"0",,"0",,"1",,"0",,,,,,,,
+20210218,"CT",,"Fairfield","Cambridge Health & Rehabilitation Center","Nursing Home","Nursing Home","Federal",,"75323",,,,"130","84",,"39",,"12",,"0",,,,,,"0",,"0",,"1",,"0",,,,,,,,
+20210218,"CT",,"Stamford","Cassena Care at Stamford","Nursing Home","Nursing Home","Federal",,"75061",,,,"135","89",,"24",,"13",,"0",,,,,,"0",,"0",,"1",,"0",,,,,,,,
+20210218,"CT",,"Stafford","Evergreen Health Care","Nursing Home","Nursing Home","Federal",,"75326",,,,"143","89",,"21",,"17",,"0",,,,,,"0",,"0",,"1",,"0",,,,,,,,
+20210218,"CT",,"Bristol","Ingraham Manor","Nursing Home","Nursing Home","Federal",,"75329",,,,"100","97",,"8",,"54",,"0",,,,,,"0",,"0",,"1",,"0",,,,,,,,
+20210218,"CT",,"Avon","Avon Health Center","Nursing Home","Nursing Home","Federal",,"75244",,,,"80","97",,"30",,"57",,"0",,,,,,"0",,"0",,"1",,"0",,,,,,,,
+20210218,"CT",,"Southington","The Summit at Plantsville","Nursing Home","Nursing Home","Federal",,"75420",,,,"114","98",,"25",,"29",,"0",,,,,,"0",,"0",,"1",,"0",,,,,,,,
+20210218,"CT",,"Cromwell","Autumn Lake Healthcare At Cromwell","Nursing Home","Nursing Home","Federal",,"75263",,,,"120","99",,"23",,"13",,"0",,,,,,"0",,"0",,"1",,"0",,,,,,,,
+20210218,"CT",,"Milford","West River Rehabilitation Center","Nursing Home","Nursing Home","Federal",,"75377",,,,"80","104",,"33",,"42",,"0",,,,,,"0",,"0",,"1",,"0",,,,,,,,
+20210218,"CT",,"Middletown","Water's Edge Center for Health and
+Rehabilitation","Nursing Home","Nursing Home","Federal",," ",,,,"114","107",,"30",,"18",,"0",,,,,,"0",,"0",,"1",,"0",,,,,,,,
+20210218,"CT",,"Newington","Newington Rapid Recovery Rehab Center","Nursing Home","Nursing Home","Federal",,"75286",,,,"131","128",,"32",,"14",,"0",,,,,,"0",,"0",,"1",,"0",,,,,,,,
+20210218,"CT",,"North Haven","Montowese Health & Rehabilitation Center","Nursing Home","Nursing Home","Federal",,"75017",,,,"100","131",,"39",,"38",,"0",,,,,,"0",,"0",,"1",,"0",,,,,,,,
+20210218,"CT",,"East Hartford","Riverside Health and Rehabilitation Center","Nursing Home","Nursing Home","Federal",,"75257",,,,"251","166",,"79",,"18",,"0",,,,,,"0",,"1",,"1",,"0",,,,,,,,
+20210218,"CT",,"West Hartford","Hebrew Center Health and Rehabilitation","Nursing Home","Nursing Home","Federal",,"75109",,,,"179","137",,"39",,"43",,"0",,,,,,"1",,"0",,"1",,"0",,,,,,,,
+20210218,"CT",,"Wallingford","Masonicare Health Center-LTC","Nursing Home","Nursing Home","Federal",,"75135",,,,"253","173",,"49",,"112",,"0",,,,,,"1",,"1",,"1",,"0",,,,,,,,
+20210218,"CT",,"East Haddam","Chestelm Health & Rehabilitation Center","Nursing Home","Nursing Home","Federal",,"75307",,,,"54","28",,"9",,"22",,"0",,,,,,"2",,"4",,"1",,"0",,,,,,,,
+20210218,"CT",,"Norwalk","Autumn Lake Healthcare at Norwalk","Nursing Home","Nursing Home","Federal",,"75387",,,,"107","76",,"30",,"16",,"0",,,,,,"2",,"0",,"1",,"0",,,,,,,,
+20210218,"CT",,"Fairfield","Carolton Chronic & Convalescent Hospital","Nursing Home","Nursing Home","Federal",,"75034",,,,"109","91",,"37",,"19",,"0",,,,,,"2",,"0",,"1",,"0",,,,,,,,
+20210218,"CT",,"Marlborough","Marlborough Health & Rehabilitation Center","Nursing Home","Nursing Home","Federal",,"75384",,,,"84","87",,"19",,"18",,"0",,,,,,"3",,"1",,"1",,"0",,,,,,,,
+20210218,"CT",,"Windsor","Kimberly Hall North","Nursing Home","Nursing Home","Federal",,"75279",,,,"105","104",,"45",,"8",,"0",,,,,,"5",,"0",,"1",,"0",,,,,,,,
+20210218,"CT",,"Waterford","Greentree Manor Nursing & Rehabilitation
+Center","Nursing Home","Nursing Home","Federal",," ",,,,"58","57",,"20",,"23",,"0",,,,,,"0",,"0",,"2",,"0",,,,,,,,
+20210218,"CT",,"Waterbury","Cheshire House","Nursing Home","Nursing Home","Federal",,"75373",,,,"58","65",,"22",,"30",,"0",,,,,,"0",,"0",,"2",,"0",,,,,,,,
+20210218,"CT",,"Killingly","Westview Nursing Care & Rehabilitation Center, Inc.","Nursing Home","Nursing Home","Federal",,"75078",,,,"84","88",,"16",,"36",,"0",,,,,,"0",,"0",,"2",,"0",,,,,,,,
+20210218,"CT",,"Trumbull","St Joseph's Center","Nursing Home","Nursing Home","Federal",,"75001",,,,"187","133",,"50",,"50",,"0",,,,,,"0",,"0",,"2",,"0",,,,,,,,
+20210218,"CT",,"Naugatuck","Beacon Brook Health Center","Nursing Home","Nursing Home","Federal",,"75390",,,,"89","134",,"34",,"37",,"0",,,,,,"0",,"0",,"2",,"0",,,,,,,,
+20210218,"CT",,"New Britain","Autumn Lake Healthcare At New Britain","Nursing Home","Nursing Home","Federal",,"75292",,,,"227","184",,"37",,"66",,"0",,,,,,"0",,"0",,"2",,"0",,,,,,,,
+20210218,"CT",,"East Haven","Apple Rehab Laurel Woods","Nursing Home","Nursing Home","Federal",,"75389",,,,"89","58",,"13",,"22",,"0",,,,,,"3",,"0",,"2",,"0",,,,,,,,
+20210218,"CT",,"Mansfield","Mansfield Center for Nursing & Rehabilitation","Nursing Home","Nursing Home","Federal",,"75402",,,,"48","62",,"10",,"30",,"0",,,,,,"3",,"4",,"2",,"0",,,,,,,,
+20210218,"CT",,"New Britain","Grandview Rehabilitation","Nursing Home","Nursing Home","Federal",,"75182",,,,"131","95",,"27",,"19",,"0",,,,,,"0",,"1",,"3",,"0",,,,,,,,
+20210218,"CT",,"Bridgeport","Jewish Senior Services","Nursing Home","Nursing Home","Federal",,"75353",,,,"263","124",,"37",,"68",,"1",,,,,,"0",,"0",,"4",,"0",,,,,,,,
+20210218,"CT",,"Waterbury","Meridian Manor Corporation***","Nursing Home","Nursing Home","Federal",,"75102",,,,"-","0",,"0",,"4",,"0",,,,,,"-",,"-",,"-",,"-",,,,,,,,
+20210218,"CT",,"Norwich","Three Rivers Healthcare*","Nursing Home","Nursing Home","Federal",," ",,,,"-","20",,"4",,"6",,"0",,,,,,"-",,"-",,"-",,"-",,,,,,,,
+20210218,"CT",,"New Britain","Cassena Care at New Britain**","Nursing Home","Nursing Home","Federal",,"75185",,,,"-","72",,"19",,"2",,"0",,,,,,"-",,"-",,"-",,"-",,,,,,,,
