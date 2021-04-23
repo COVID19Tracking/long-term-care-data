@@ -9,6 +9,6 @@
     "json2csv": "^5.0.3"
   },
   "scripts": {
-    "build": "node index.js"
+    "build": "NODE_OPTIONS=--max_old_space_size=8192 node index.js"
   }
 }
