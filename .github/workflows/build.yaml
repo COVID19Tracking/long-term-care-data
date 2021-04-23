@@ -10,6 +10,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v2
         with:
+          lfs: true
           path: ./
 
       - name: Install Dependencies
